@@ -108,7 +108,7 @@ export default function About() {
           variants={fadeInUp as any}
         >
           <Image
-            src="/files/profile2.jpg"
+            src="/files/profile2.JPG"
             alt="Karanja Benjamin Ndung'u - GIS Specialist & Web Developer"
             fill
             className="object-cover hover:scale-105 transition-transform duration-700"
